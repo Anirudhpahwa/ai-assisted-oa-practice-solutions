@@ -7,6 +7,7 @@
 | [mock-01-returns-desk](mock-01-returns-desk/SOLUTION.md) | 9 |
 | [mock-02-leave-desk](mock-02-leave-desk/SOLUTION.md) | 9 |
 | [mock-03-stock-count-desk](mock-03-stock-count-desk/SOLUTION.md) | 9 |
+| [mock-04-help-desk](mock-04-help-desk/SOLUTION.md) | 9 |
 
 ## License
 
