@@ -8,6 +8,7 @@
 | [mock-02-leave-desk](mock-02-leave-desk/SOLUTION.md) | 9 |
 | [mock-03-stock-count-desk](mock-03-stock-count-desk/SOLUTION.md) | 9 |
 | [mock-04-help-desk](mock-04-help-desk/SOLUTION.md) | 9 |
+| [mock-05-equipment-loan-desk](mock-05-equipment-loan-desk/SOLUTION.md) | 9 |
 
 ## License
 
