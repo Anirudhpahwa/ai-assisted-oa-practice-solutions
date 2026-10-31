@@ -10,6 +10,7 @@
 | [mock-04-help-desk](mock-04-help-desk/SOLUTION.md) |
 | [mock-05-equipment-loan-desk](mock-05-equipment-loan-desk/SOLUTION.md) |
 | [mock-06-shift-roster-desk](mock-06-shift-roster-desk/SOLUTION.md) |
+| [mock-07-event-signup-desk](mock-07-event-signup-desk/SOLUTION.md) |
 
 ## License
 
